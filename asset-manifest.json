@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/3DS2-DDC/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/3DS2-DDC/static/js/main.5c295f12.chunk.js",
+    "main.js.map": "/3DS2-DDC/static/js/main.5c295f12.chunk.js.map",
+    "runtime-main.js": "/3DS2-DDC/static/js/runtime-main.463e6932.js",
+    "runtime-main.js.map": "/3DS2-DDC/static/js/runtime-main.463e6932.js.map",
+    "static/js/2.aa9796b5.chunk.js": "/3DS2-DDC/static/js/2.aa9796b5.chunk.js",
+    "static/js/2.aa9796b5.chunk.js.map": "/3DS2-DDC/static/js/2.aa9796b5.chunk.js.map",
+    "static/js/3.f57dc84c.chunk.js": "/3DS2-DDC/static/js/3.f57dc84c.chunk.js",
+    "static/js/3.f57dc84c.chunk.js.map": "/3DS2-DDC/static/js/3.f57dc84c.chunk.js.map",
+    "index.html": "/3DS2-DDC/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/3DS2-DDC/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.aa9796b5.chunk.js.LICENSE.txt": "/3DS2-DDC/static/js/2.aa9796b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.463e6932.js",
+    "static/js/2.aa9796b5.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5c295f12.chunk.js"
+  ]
+}
